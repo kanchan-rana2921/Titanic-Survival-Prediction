@@ -1,5 +1,4 @@
-# Titanic-Survival-Prediction
-A machine learning model to predict Titanic passenger survival
+#README DOCUMENTATION FILE
 # Titanic Survival Prediction
 
 This project uses machine learning to predict the survival of passengers aboard the Titanic using features such as age, gender, ticket class, fare, and cabin information.
